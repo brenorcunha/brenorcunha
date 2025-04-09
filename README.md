@@ -8,7 +8,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)
-
+![Django](https://www.djangoproject.com/m/img/badges/djangoproject120x25.gif)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)
@@ -29,8 +29,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
  ## Aqui tenho um pouco sobre mim como desenvolvedor: 
-- 🔭 Estou estudando JS *full-stack* com a OneBitCode.
-- 🌱 Formado em Ciência da Computação pela faculdade Anhanguera-SJC, possuo sólidos conhecimentos em Python, incluindo Visão Computacional, Django; também programação WEB JavaScript, entre outras linguagens e tecnologias.
-- O desenvolvimento de *software* é para mim uma paixão, desde o primeiro contato vi que é um desafio, porém me impulsiona a buscar mais, me superar. 
+- 🌱 Formado em Ciência da Computação pela faculdade Anhanguera-SJC, com sólida experiência em suporte técnico de TI e análise de sistemas. Proficiência em ambientes Windows e Linux, bancos de dados SQL e NoSQL, desenvolvimento de *software* voltado para WEB e modelos de aplicações de inteligência artificial.
+- O desenvolvimento de *software* é para mim uma paixão, desde o primeiro contato vi que é um desafio, porém me impulsiona a buscar mais, me superar.
+- Reconhecido pela abordagem pró-ativa na resolução de problemas e com compromisso com a excelência no atendimento ao cliente.
+ Busco oportunidades para aplicar minhas habilidades técnicas e de comunicação em desafios que impulsionem a inovação e eficiência organizacional.
 - 👯 Disponível para colaboração em projetos. E consulte aqui os meus!
 - 💬 Pergunte-me sobre Python, Inteligência artificial, WEB e similares.
