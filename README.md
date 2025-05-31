@@ -38,7 +38,11 @@
 
 ![Logo](https://onedrive.live.com/embed?resid=5D154344EF67B72B%2160051&authkey=%21AINk-0eBPXOM684&width=77&height=77)
 - Meu projeto mais significativo é o healingAPP: Um webAPP voltado para o gerenciamento de consultas para clínicas com muitos recursos como gerenciamento inteligente de agenda, feito com Python e Django, acesse aqui:
-[healingAPP](https://brenorcunha.pythonanywhere.com/users/login/)
+[healingAPP](https://brenorcunha.pythonanywhere.com/)
 ![Medical register](https://onedrive.live.com/embed?resid=5D154344EF67B72B%2159980&authkey=%21AP8acmDpz5XgV5s&width=1366&height=768)
 ![Dr's open agenda](https://onedrive.live.com/embed?resid=5D154344EF67B72B%2160059&authkey=%21AI4aBP1l0dI9fyg&height=656)
 ![Dr's appointments](https://onedrive.live.com/embed?resid=5D154344EF67B72B%2160057&authkey=%21ABqaWDbuzru_4D0&height=656)
+
+## Projetos FRONT:
+[SealWorld](https://brenorcunha.github.io/sealworld/)
+[MySpaceX](https://brenorcunha.github.io/myspacex/)
