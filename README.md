@@ -1,5 +1,6 @@
-### Olá 👋, sou Breno, tenho 29 anos, desenvolvedor *full-stack*.
+### Olá 👋, sou Breno, um desenvolvedor *full-stack*, que transforma desafios tecnológicos em soluções inovadoras. 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenorcunha&theme=default)
+
 ## Minhas habilidades: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
@@ -28,21 +29,17 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
- ## Aqui tenho um pouco sobre mim como desenvolvedor: 
-- 🌱 Formado em Ciência da Computação pela faculdade Anhanguera-SJC, com sólida experiência em suporte técnico de TI e análise de sistemas. Proficiência em ambientes Windows e Linux, bancos de dados SQL e NoSQL, desenvolvimento de *software* voltado para WEB e modelos de aplicações de inteligência artificial.
-- O desenvolvimento de *software* é para mim uma paixão, desde o primeiro contato vi que é um desafio, porém me impulsiona a buscar mais, me superar.
-- Reconhecido pela abordagem pró-ativa na resolução de problemas e com compromisso com a excelência no atendimento ao cliente.
- Busco oportunidades para aplicar minhas habilidades técnicas e de comunicação em desafios que impulsionem a inovação e eficiência organizacional.
-- 👯 Disponível para colaboração em projetos. E consulte aqui os meus!
-- 💬 Pergunte-me sobre Python, Inteligência artificial, WEB e similares.
+ Minha formação em Ciência da Computação e experiência com projetos em ramos como WEB, Python e Inteligência Artificial em diversas linguagens me ajudam a demonstrar minhas habilidades.
+ Tenho expertise em diversas tecnologias-de Python com Django a JavaScript e Node.js-além de forte atuação no desenvolvimento de soluções voltadas a otimização de processos, com conhecimentos práticos em SQL e NoSQL, complementam minha habilidade para entregar soluções completas e integradas. 
+ Reconhecido por minhas habilidades de proatividade, organização, trabalho em equipe/ liderança, destaco-me tanto na resolução de problemas quanto na comunicação com equipes multilíngues, sendo fluente em inglês e espanhol, buscando sempre superar expectativas e impulsionar a eficiência organizacional.
 
-![Logo](https://onedrive.live.com/embed?resid=5D154344EF67B72B%2160051&authkey=%21AINk-0eBPXOM684&width=77&height=77)
-- Meu projeto mais significativo é o healingAPP: Um webAPP voltado para o gerenciamento de consultas para clínicas com muitos recursos como gerenciamento inteligente de agenda, feito com Python e Django, acesse aqui:
+## Projetos:
+- HealingAPP: Um webAPP voltado para o gerenciamento de consultas para clínicas com muitos recursos como gerenciamento inteligente de agenda, feito com Python e Django, acesse aqui:
 [healingAPP](https://brenorcunha.pythonanywhere.com/)
-![Medical register](https://onedrive.live.com/embed?resid=5D154344EF67B72B%2159980&authkey=%21AP8acmDpz5XgV5s&width=1366&height=768)
 ![Dr's open agenda](https://onedrive.live.com/embed?resid=5D154344EF67B72B%2160059&authkey=%21AI4aBP1l0dI9fyg&height=656)
 ![Dr's appointments](https://onedrive.live.com/embed?resid=5D154344EF67B72B%2160057&authkey=%21ABqaWDbuzru_4D0&height=656)
-
-## Projetos FRONT:
+- SealWorld: Uma design inovador sobre focas. Acesse aqui:
 [SealWorld](https://brenorcunha.github.io/sealworld/)
+- MySpaceX: Um projeto inovador baseado em um site da SpaceX para demonstração de minhas habilidades como desenvolvedor front-end. Acesse aqui:
 [MySpaceX](https://brenorcunha.github.io/myspacex/)
+- Possuo outros projetos de pesquisa com Inteligência Artificial, Visão Computacional e WEB, que podem ser checados aqui no meu perfil (Código apenas).
