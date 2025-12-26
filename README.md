@@ -9,7 +9,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)
-![Django](https://www.djangoproject.com/m/img/badges/djangoproject120x25.gif)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)
