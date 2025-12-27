@@ -1,4 +1,4 @@
-### Olá 👋, sou Breno, um desenvolvedor *full-stack*, que transforma desafios tecnológicos em soluções inovadoras. 
+### Olá 👋, sou Breno, um desenvolvedor e analista de testes de *software/ QA Analyst*. 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenorcunha&theme=default)
 
 ## Minhas habilidades: 
@@ -22,6 +22,9 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?logo=cypress&logoColor=058a5e)
+- Selenium
+
 ### SO's: 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
@@ -29,17 +32,13 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
- Minha formação em Ciência da Computação e experiência com projetos em ramos como WEB, Python e Inteligência Artificial em diversas linguagens me ajudam a demonstrar minhas habilidades.
- Tenho expertise em diversas tecnologias-de Python com Django a JavaScript e Node.js-além de forte atuação no desenvolvimento de soluções voltadas a otimização de processos, com conhecimentos práticos em SQL e NoSQL, complementam minha habilidade para entregar soluções completas e integradas. 
- Reconhecido por minhas habilidades de proatividade, organização, trabalho em equipe/ liderança, destaco-me tanto na resolução de problemas quanto na comunicação com equipes multilíngues, sendo fluente em inglês e espanhol, buscando sempre superar expectativas e impulsionar a eficiência organizacional.
+Formado em Ciência da Computação, com sólida base técnica e experiência em suporte técnico e infraestrutura de TI, com atuação predominante como analista de Service Desk. Ao longo desta trajetória, desenvolvi habilidades de análise, diagnóstico de falhas e atendimento técnico em massa, e suporte a sistemas, tanto de hardware como software, em diversos cenários e  análise de software e hardware. 
+Como analista de QA, atuo com testes automatizados, utilizando ferramentas como Selenium, Cypress e Postman integradas a linguagens como JS e Python. Possuo conhecimento prático em ambientes Windows e Linux, bancos de dados SQL e NoSQL, integração de API's.
+Reconhecido pela abordagem analítica e comunicação assertiva em ambientes colaborativos, busco oportunidade para aplicar minha versatilidade técnica com foco em qualidade para agregar valores a equipes ágeis, entregando software estável, escalável e livre de defeitos.
 
 ## Projetos:
 - HealingAPP: Um webAPP voltado para o gerenciamento de consultas para clínicas com muitos recursos como gerenciamento inteligente de agenda, feito com Python e Django, acesse aqui:
 [healingAPP](https://brenorcunha.pythonanywhere.com/)
 ![Dr's open agenda](https://onedrive.live.com/embed?resid=5D154344EF67B72B%2160059&authkey=%21AI4aBP1l0dI9fyg&height=656)
 ![Dr's appointments](https://onedrive.live.com/embed?resid=5D154344EF67B72B%2160057&authkey=%21ABqaWDbuzru_4D0&height=656)
-- SealWorld: Uma design inovador sobre focas. Acesse aqui:
-[SealWorld](https://brenorcunha.github.io/sealworld/)
-- MySpaceX: Um projeto inovador baseado em um site da SpaceX para demonstração de minhas habilidades como desenvolvedor front-end. Acesse aqui:
-[MySpaceX](https://brenorcunha.github.io/myspacex/)
-- Possuo outros projetos de pesquisa com Inteligência Artificial, Visão Computacional e WEB, que podem ser checados aqui no meu perfil (Código apenas).
+![Meus scripts de teste você encontra aqui:](https://github.com/brenorcunha/AutomatedTests)
