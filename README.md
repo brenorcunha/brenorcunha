@@ -37,8 +37,10 @@ Como analista de QA, atuo com testes automatizados, utilizando ferramentas como 
 Reconhecido pela abordagem analítica e comunicação assertiva em ambientes colaborativos, busco oportunidade para aplicar minha versatilidade técnica com foco em qualidade para agregar valores a equipes ágeis, entregando software estável, escalável e livre de defeitos.
 
 ## Projetos:
-- HealingAPP: Um webAPP voltado para o gerenciamento de consultas para clínicas com muitos recursos como gerenciamento inteligente de agenda, feito com Python e Django, acesse aqui:
-[healingAPP](https://brenorcunha.pythonanywhere.com/)
-![Dr's open agenda](https://onedrive.live.com/embed?resid=5D154344EF67B72B%2160059&authkey=%21AI4aBP1l0dI9fyg&height=656)
-![Dr's appointments](https://onedrive.live.com/embed?resid=5D154344EF67B72B%2160057&authkey=%21ABqaWDbuzru_4D0&height=656)
-![Meus scripts de teste você encontra aqui:](https://github.com/brenorcunha/AutomatedTests)
+- HealingAPP: Um webAPP voltado para o gerenciamento de consultas para clínicas com muitos recursos como gerenciamento inteligente de agenda, feito com Python e Django:
+[Acesse aqui](https://brenorcunha.pythonanywhere.com/)
+![Home page de paciente](patients_home.png)
+![Agendamentos do médico](dr_appointments.png)
+![Cadstro de médicos](doctors_register.png)
+##Testes: 
+Meus scripts de teste você encontra [aqui](https://github.com/brenorcunha/AutomatedTests)
